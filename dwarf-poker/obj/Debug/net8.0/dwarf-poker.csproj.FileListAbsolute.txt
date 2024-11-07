@@ -1,0 +1,15 @@
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\bin\Debug\net8.0\dwarf-poker.exe
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\bin\Debug\net8.0\dwarf-poker.deps.json
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\bin\Debug\net8.0\dwarf-poker.runtimeconfig.json
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\bin\Debug\net8.0\dwarf-poker.dll
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\bin\Debug\net8.0\dwarf-poker.pdb
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\obj\Debug\net8.0\dwarf-poker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\obj\Debug\net8.0\dwarf-poker.AssemblyInfoInputs.cache
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\obj\Debug\net8.0\dwarf-poker.AssemblyInfo.cs
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\obj\Debug\net8.0\dwarf-poker.csproj.CoreCompileInputs.cache
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\obj\Debug\net8.0\dwarf-poker.sourcelink.json
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\obj\Debug\net8.0\dwarf-poker.dll
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\obj\Debug\net8.0\refint\dwarf-poker.dll
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\obj\Debug\net8.0\dwarf-poker.pdb
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\obj\Debug\net8.0\dwarf-poker.genruntimeconfig.cache
+C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\obj\Debug\net8.0\ref\dwarf-poker.dll
