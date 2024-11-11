@@ -39,11 +39,11 @@ namespace dwarf_poker
             {
                 if(IsLocked)
                 {
-                    return "1";
+                    return "Y";
                 }
                 else
                 {
-                    return "0";
+                    return "N";
                 }
             } else
             {

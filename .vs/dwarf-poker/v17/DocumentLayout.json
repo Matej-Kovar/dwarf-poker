@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1131FA4B-0BD1-43B9-BE60-599ECCBEF037}|dwarf-poker\\dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1131FA4B-0BD1-43B9-BE60-599ECCBEF037}|dwarf-poker\\dwarf-poker.csproj|solutionrelative:dwarf-poker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dwarf-poker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "dwarf-poker\\Program.cs",
               "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Program.cs",
               "RelativeToolTip": "dwarf-poker\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T12:51:07.982Z",
               "EditorCaption": ""

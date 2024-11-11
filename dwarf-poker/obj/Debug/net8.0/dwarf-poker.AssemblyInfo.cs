@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dwarf-poker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01483c4b23f29d89717108846ed2655491a818a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa1654cdda9b31c7a9d89628e04ede84069acd61")]
 [assembly: System.Reflection.AssemblyProductAttribute("dwarf-poker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dwarf-poker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
