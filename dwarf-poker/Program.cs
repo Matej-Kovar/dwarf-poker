@@ -1,39 +1,39 @@
-﻿using dwarf_poker;
+﻿using DwarvenPoker;
 
-Player[] players = new Player[5];
-for (int i = 0; i < 5; i++)
+Player[] players = new Player[0];
+Round game = new Round(players);
+while (!game.End)
 {
-    Dice[] dices = new Dice[5];
-    for (int j = 0; j < 5; j++)
+    while (game.InMenu)
     {
-        dices[j] = new Dice([1, 2, 3, 4, 5, 6]);
-    }
-    players[i] = new Player(i.ToString(), 100, 2, dices);
-}
-Game game = new Game(players);
-
-do
-{
-    do
-    {
-        string[] display = game.DisplayStatus();
-        foreach (string s in display)
-        {
-            Console.WriteLine(s);
-        }
-        display = game.InputHandling(Console.ReadLine());
-        foreach (string s in display)
-        {
-            Console.WriteLine(s);
-        }
+        Style.Display(game.MenuOutput());
+        Console.Write($"  dwarvenPoker: ");
+        Style.Display(game.MenuInput(Console.ReadLine()));
+        Console.Write("  ");
         Console.ReadLine();
         Console.Clear();
-    } while (!game.RoundEnd);
-    /*Console.WriteLine("Your round has ended");
-    Thread.Sleep(1500);
-    Console.Clear();*/
-} while (!game.NextPlayer());
-//decide winner
+    }
+    do
+    {
+        do
+        {
+            Style.Display(game.DisplayStatus());
+            Console.Write($"  dwarvenPoker@{game.CurrentPlayer.Name}: ");
+            Style.Display(game.InGameInputs(Console.ReadLine()));
+            Console.Write("  ");
+            Console.ReadLine();
+            Console.Clear();
+        } while (!game.RoundEnd);
+    } while (!game.NextPlayer());
+    game.InMenu = true;
+    Style.Display(game.FinishRound());
+    Console.Write($"Press [enter] to continue");
+    Console.Write("  ");
+    Console.ReadLine();
+    if (game.End)
+    {
+        Environment.Exit(0);
+    }
+    Console.Clear();
 
-
-
+}

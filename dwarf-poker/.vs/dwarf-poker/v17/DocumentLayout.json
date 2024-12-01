@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\style.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|solutionrelative:style.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|solutionrelative:round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|solutionrelative:text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|solutionrelative:dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|c:\\users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E768EAA-576B-432D-A5CB-5A2936AB0DD0}|dwarf-poker.csproj|solutionrelative:actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +34,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Text.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Text.cs",
-              "RelativeDocumentMoniker": "Text.cs",
-              "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Text.cs",
-              "RelativeToolTip": "Text.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAD4vx4AAACUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T19:52:19.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Player.cs",
-              "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Player.cs",
-              "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T07:27:24.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
               "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Game.cs",
               "RelativeToolTip": "Game.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAApwGEAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T10:35:02.382Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Style.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Style.cs",
+              "RelativeDocumentMoniker": "Style.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Style.cs",
+              "RelativeToolTip": "Style.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:52:19.713Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Dice.cs",
+              "RelativeDocumentMoniker": "Dice.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Dice.cs",
+              "RelativeToolTip": "Dice.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:00:00.954Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T14:08:09.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dice.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Dice.cs",
-              "RelativeDocumentMoniker": "Dice.cs",
-              "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Dice.cs",
-              "RelativeToolTip": "Dice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAfAAAA",
+              "DocumentIndex": 2,
+              "Title": "Round.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Round.cs",
+              "RelativeDocumentMoniker": "Round.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Round.cs",
+              "RelativeToolTip": "Round.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T14:00:00.954Z",
+              "WhenOpened": "2024-12-01T15:26:33.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Actions.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Actions.cs",
-              "RelativeDocumentMoniker": "Actions.cs",
-              "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Actions.cs",
-              "RelativeToolTip": "Actions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAArAAAA",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\dwarf-poker\\dwarf-poker\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T14:14:23.82Z",
+              "WhenOpened": "2024-10-26T07:27:24.803Z",
               "EditorCaption": ""
             }
           ]

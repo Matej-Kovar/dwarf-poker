@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dwarf_poker
-build_property.ProjectDir = C:\Users\matej\Source\Repos\dwarf-poker\dwarf-poker\
+build_property.ProjectDir = C:\Users\matej\source\repos\dwarf-poker\dwarf-poker\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

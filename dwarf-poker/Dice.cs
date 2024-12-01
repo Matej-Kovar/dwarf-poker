@@ -5,9 +5,9 @@ using System.Runtime;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dwarf_poker
+namespace DwarvenPoker
 {
-    class Dice
+    public class Dice
     {
         private int[] _sides;
         public Dice(int[] sides)
@@ -15,20 +15,23 @@ namespace dwarf_poker
             this.Sides = sides;
         }
         public int Value { get; set; } = 0;
-        public int[] Sides { get { return _sides; } set 
+        public int[] Sides
+        {
+            get { return _sides; }
+            set
             {
                 for (int i = 0; i < value.Length; i++)
                 {
-                    if(value[i] < 0)
+                    if (value[i] < 0)
                     {
                         throw new ArgumentOutOfRangeException("Side value cannot be lower than 1");
                     }
-                } 
+                }
                 _sides = value;
-             } 
+            }
         }
-        public bool IsLocked { get; set; } = false;
-        public void Roll ()
+        public bool Lock { get; set; } = false;
+        public void Roll()
         {
             Random rnd = new Random();
             Value = Sides[rnd.Next(0, Sides.Length)];
@@ -37,7 +40,7 @@ namespace dwarf_poker
         {
             if (returnLocked)
             {
-                if(IsLocked)
+                if (Lock)
                 {
                     return "Y";
                 }
@@ -45,7 +48,8 @@ namespace dwarf_poker
                 {
                     return "N";
                 }
-            } else
+            }
+            else
             {
                 return Value.ToString();
             }
